@@ -20,61 +20,78 @@
 
 ## 📸 Screenshots
 
-<details>
-<summary><strong>🏠 Dashboard</strong></summary>
-<br/>
-<p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="90%"/>
-</p>
-</details>
+### 💬 Chat with JARVIS
+> Your AI business partner — just talk naturally. JARVIS auto-captures learnings, decisions, and generates action plans from your conversations.
 
-<details>
-<summary><strong>💬 Chat with JARVIS</strong></summary>
-<br/>
 <p align="center">
-  <img src="screenshots/chat.png" alt="Chat View" width="90%"/>
+  <img src="screenshots/01-chat.png" alt="Chat — Conversation" width="90%"/>
 </p>
-</details>
 
-<details>
-<summary><strong>🎯 Objectives Tracker</strong></summary>
-<br/>
 <p align="center">
-  <img src="screenshots/objectives.png" alt="Objectives View" width="90%"/>
+  <img src="screenshots/02-chat-response.png" alt="Chat — AI Response with Context" width="90%"/>
 </p>
-</details>
 
-<details>
-<summary><strong>📚 Learnings</strong></summary>
-<br/>
 <p align="center">
-  <img src="screenshots/learnings.png" alt="Learnings View" width="90%"/>
+  <img src="screenshots/03-chat-plan.png" alt="Chat — Auto-Generated Plan" width="90%"/>
 </p>
-</details>
 
-<details>
-<summary><strong>⚖️ Decision Log</strong></summary>
-<br/>
-<p align="center">
-  <img src="screenshots/decisions.png" alt="Decisions View" width="90%"/>
-</p>
-</details>
+---
 
-<details>
-<summary><strong>🔮 Reflections</strong></summary>
-<br/>
-<p align="center">
-  <img src="screenshots/reflections.png" alt="Reflections View" width="90%"/>
-</p>
-</details>
+### 📊 Dashboard
+> Bird's-eye view of your entire journey — objectives, learnings, decisions, and reflections at a glance with live stats and recent activity.
 
-<details>
-<summary><strong>🤖 GuideBot Widget</strong></summary>
-<br/>
 <p align="center">
-  <img src="screenshots/guidebot.png" alt="GuideBot Widget" width="90%"/>
+  <img src="screenshots/04-dashboard.png" alt="Dashboard Overview" width="90%"/>
 </p>
-</details>
+
+---
+
+### 📚 Learnings
+> Capture insights, mistakes, successes, and patterns. Filter by tags, browse analytics charts, and never lose a lesson learned.
+
+<p align="center">
+  <img src="screenshots/05-learnings.png" alt="Learnings — Card View" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/06-learnings-analytics.png" alt="Learnings — Analytics & Charts" width="90%"/>
+</p>
+
+---
+
+### ⚖️ Decision Log
+> Document every business decision with structured reasoning — what you decided, why, alternatives considered, and expected outcomes.
+
+<p align="center">
+  <img src="screenshots/07-decisions.png" alt="Decision Log" width="90%"/>
+</p>
+
+---
+
+### 🔮 Reflections
+> AI-powered self-analysis that identifies patterns across your journey and provides actionable, personalized suggestions.
+
+<p align="center">
+  <img src="screenshots/08-reflections.png" alt="Reflections" width="90%"/>
+</p>
+
+---
+
+### 🎯 Objectives
+> Track goals with AI-generated phased plans. Approve plans, check off steps, and watch progress update in real-time.
+
+<p align="center">
+  <img src="screenshots/09-objectives.png" alt="Objectives Tracker" width="90%"/>
+</p>
+
+---
+
+### 🤖 GuideBot
+> Multilingual onboarding assistant (10 languages) — knows which page you're on and gives context-aware help, tips, and quick actions.
+
+<p align="center">
+  <img src="screenshots/10-guidebot.png" alt="GuideBot Widget" width="90%"/>
+</p>
 
 ---
 
